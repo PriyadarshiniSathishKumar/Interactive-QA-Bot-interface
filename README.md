@@ -65,5 +65,10 @@ Colab Notebook: A fully functional Google Colab notebook is included to demonstr
 
 Pipeline and Deployment Documentation: The repository contains a detailed description of the pipeline, from document upload to AI response. This includes how documents are parsed, questions are processed, and responses are retrieved. Additionally, instructions for deploying the application using Docker are provided, ensuring the bot can be easily launched in different environments.
 
+![Screenshot 2024-09-20 190215](https://github.com/user-attachments/assets/48a35e4e-7b36-4795-8079-3b772363081b)
+
+![Screenshot 2024-09-20 190039](https://github.com/user-attachments/assets/d9585c2d-352a-4b4e-8e83-ba45bf3c038b)
+
+
 
 

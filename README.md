@@ -26,7 +26,7 @@ This is a Streamlit-based Interactive Q&A bot that allows users to upload docume
 
 ## Getting Started
 
-### 1. Clone the repository
+Clone the repository
 ```bash
 git clone https://github.com/PriyadarshiniSathishKumar/Interactive-QA-Bot-interface.git
 cd Interactive-QA-Bot-interface

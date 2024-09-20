@@ -30,9 +30,6 @@ Clone the repository
 ```bash
 git clone https://github.com/PriyadarshiniSathishKumar/Interactive-QA-Bot-interface.git
 cd Interactive-QA-Bot-interface
-![Screenshot 2024-09-20 190215](https://github.com/user-attachments/assets/e89c5830-3c46-4d43-a383-c3748b58dd2f)
-
-![Screenshot 2024-09-20 190039](https://github.com/user-attachments/assets/0d793776-181e-48ce-a11f-5647834a1a81)
 
 Project Overview
 This project is an interactive Question-Answer (QA) bot designed to help users ask questions based on the content of uploaded documents. The bot processes various document types such as PDFs, CSVs, and text files, utilizing Google Generative AI to generate responses. The project features a streamlined frontend built using Streamlit, while the backend handles document processing and AI integration. Additionally, the application is fully containerized using Docker to ensure easy deployment across different environments.
@@ -65,9 +62,6 @@ Colab Notebook: A fully functional Google Colab notebook is included to demonstr
 
 Pipeline and Deployment Documentation: The repository contains a detailed description of the pipeline, from document upload to AI response. This includes how documents are parsed, questions are processed, and responses are retrieved. Additionally, instructions for deploying the application using Docker are provided, ensuring the bot can be easily launched in different environments.
 
-![Screenshot 2024-09-20 190215](https://github.com/user-attachments/assets/48a35e4e-7b36-4795-8079-3b772363081b)
-
-![Screenshot 2024-09-20 190039](https://github.com/user-attachments/assets/d9585c2d-352a-4b4e-8e83-ba45bf3c038b)
 
 
 
